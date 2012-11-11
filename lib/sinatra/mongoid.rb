@@ -1,5 +1,6 @@
 require 'sinatra/base'
 require 'mongoid'
+require 'mongo'
 
 module Sinatra
   module MongoidExtension
